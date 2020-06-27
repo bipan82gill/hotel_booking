@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
-
-export default class Services extends Component {
+import Title from './Title';
+ class Ser extends Component {
     render() {
         return (
             <div>
-                Hello from services
+               <Title title ="services"/>
             </div>
         )
     }
 }
+export default Ser;
