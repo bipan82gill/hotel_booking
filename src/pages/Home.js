@@ -17,6 +17,7 @@ import FeaturedRooms from '../components/FeaturedRooms';
        </Hero>
        <Services/>
        <FeaturedRooms/>
+      
        </>
     )
 }
