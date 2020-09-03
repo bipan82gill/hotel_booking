@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hotel_booking/static/css/main.74649aaa.chunk.css",
-    "main.js": "/hotel_booking/static/js/main.2d872fdc.chunk.js",
-    "main.js.map": "/hotel_booking/static/js/main.2d872fdc.chunk.js.map",
+    "main.js": "/hotel_booking/static/js/main.a766effc.chunk.js",
+    "main.js.map": "/hotel_booking/static/js/main.a766effc.chunk.js.map",
     "runtime-main.js": "/hotel_booking/static/js/runtime-main.a2a01338.js",
     "runtime-main.js.map": "/hotel_booking/static/js/runtime-main.a2a01338.js.map",
-    "static/js/2.56330394.chunk.js": "/hotel_booking/static/js/2.56330394.chunk.js",
-    "static/js/2.56330394.chunk.js.map": "/hotel_booking/static/js/2.56330394.chunk.js.map",
+    "static/js/2.7cd684ce.chunk.js": "/hotel_booking/static/js/2.7cd684ce.chunk.js",
+    "static/js/2.7cd684ce.chunk.js.map": "/hotel_booking/static/js/2.7cd684ce.chunk.js.map",
     "index.html": "/hotel_booking/index.html",
-    "precache-manifest.93f93e02325fd2b93807a236a49ad855.js": "/hotel_booking/precache-manifest.93f93e02325fd2b93807a236a49ad855.js",
+    "precache-manifest.fe91f4bf759727d9c4abf64a57240555.js": "/hotel_booking/precache-manifest.fe91f4bf759727d9c4abf64a57240555.js",
     "service-worker.js": "/hotel_booking/service-worker.js",
     "static/css/main.74649aaa.chunk.css.map": "/hotel_booking/static/css/main.74649aaa.chunk.css.map",
-    "static/js/2.56330394.chunk.js.LICENSE.txt": "/hotel_booking/static/js/2.56330394.chunk.js.LICENSE.txt",
+    "static/js/2.7cd684ce.chunk.js.LICENSE.txt": "/hotel_booking/static/js/2.7cd684ce.chunk.js.LICENSE.txt",
     "static/media/App.css": "/hotel_booking/static/media/room-2.052c7681.jpeg",
     "static/media/details-1.jpeg": "/hotel_booking/static/media/details-1.33ab9f1e.jpeg",
     "static/media/details-2.jpeg": "/hotel_booking/static/media/details-2.50c23e62.jpeg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a2a01338.js",
-    "static/js/2.56330394.chunk.js",
+    "static/js/2.7cd684ce.chunk.js",
     "static/css/main.74649aaa.chunk.css",
-    "static/js/main.2d872fdc.chunk.js"
+    "static/js/main.a766effc.chunk.js"
   ]
 }

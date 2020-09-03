@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "725f234a849b7fdc1b70a64fd4b61629",
+    "revision": "80abe6b4e5b5d67c234df933ae888624",
     "url": "/hotel_booking/index.html"
   },
   {
-    "revision": "53fafd1ae663cdbaf57a",
+    "revision": "a0743d524316f818d6f2",
     "url": "/hotel_booking/static/css/main.74649aaa.chunk.css"
   },
   {
-    "revision": "3eefb5d74c11c7930975",
-    "url": "/hotel_booking/static/js/2.56330394.chunk.js"
+    "revision": "2ae871521dce0ca5d57f",
+    "url": "/hotel_booking/static/js/2.7cd684ce.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/hotel_booking/static/js/2.56330394.chunk.js.LICENSE.txt"
+    "revision": "dd207babaeb913476be46155cc504ef5",
+    "url": "/hotel_booking/static/js/2.7cd684ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53fafd1ae663cdbaf57a",
-    "url": "/hotel_booking/static/js/main.2d872fdc.chunk.js"
+    "revision": "a0743d524316f818d6f2",
+    "url": "/hotel_booking/static/js/main.a766effc.chunk.js"
   },
   {
     "revision": "4fe0f86e1cd1035e2cd3",
